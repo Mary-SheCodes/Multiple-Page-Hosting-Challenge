@@ -1,12 +1,18 @@
-body{
-    background-color: rgb(202, 215, 238);
+body {
+  background-color: rgb(202, 215, 238);
 }
-h1{
-    text-align: center;
-    font-size: 40px;
+h1 {
+  text-align: center;
+  font-size: 40px;
 }
-p{
-    text-align: justify;
-    display: block;
-
+p {
+  text-align: justify;
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
+img {
+  margin: 0 auto;
+  display: block;
+  padding: 10px;
 }
