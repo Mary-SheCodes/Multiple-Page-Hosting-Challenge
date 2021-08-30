@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(202, 215, 238);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    text-align: justify;
+    display: block;
+
+}
